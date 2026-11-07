@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "8bit-adder.kicad_pro",
+    "filename": "8-bit-adder.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -655,7 +655,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "8bit-adder.wbk"
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -664,30 +664,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "8bit-adder.kicad_sch",
-        "name": "8bit-adder",
-        "uuid": "1729016b-f93d-42b4-b6f8-391b1886ad56"
+        "filename": "8-bit-adder.kicad_sch",
+        "name": "Root",
+        "uuid": "40b0f0e8-ba8c-4090-bdad-ca02f8ab86a3"
       }
     ],
-    "used_designators": "SW1-3,D1-9,BT1,U1-55,R1",
+    "used_designators": "R1-30,J1,D1-26,#PWR1-39,SW1-5,U1-23,C1-2",
     "variants": []
   },
   "sheets": [
     [
-      "1729016b-f93d-42b4-b6f8-391b1886ad56",
-      "8bit-adder"
-    ],
-    [
-      "35add453-7cb8-4143-8cec-3f5312b20968",
-      "Synchronizer"
-    ],
-    [
-      "8959bfe2-df44-43d3-9fdd-a59aca176142",
-      "Control unit"
-    ],
-    [
-      "8677776f-2a96-4a1e-907c-d516e2091087",
-      "8bit-adder"
+      "40b0f0e8-ba8c-4090-bdad-ca02f8ab86a3",
+      "Root"
     ]
   ],
   "text_variables": {},

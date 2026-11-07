@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "8bit-adder.kicad_prl",
+    "filename": "8-bit-adder.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
