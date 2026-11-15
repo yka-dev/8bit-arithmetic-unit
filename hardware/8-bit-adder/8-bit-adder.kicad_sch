@@ -23300,7 +23300,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C 10 uF"
+		(property "Value" "C 47 uF"
 			(at 53.34 173.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39642,7 +39642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"
 			(at 61.9252 139.7 0)
 			(hide yes)
 			(show_name no)
