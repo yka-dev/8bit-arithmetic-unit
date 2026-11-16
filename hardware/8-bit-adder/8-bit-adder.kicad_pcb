@@ -1339,7 +1339,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "da98333a-c276-448a-8863-355f85201519")
@@ -1991,7 +1991,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "de4bd82d-cbb7-4e3e-9396-6a42df1aec0c")
@@ -4129,7 +4129,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "6a9b0586-d098-4c2b-a395-4f1149f4ce03")
@@ -7274,7 +7274,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED YELLOW"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "3410535a-282f-4f04-8c41-8f5a3c861710")
@@ -7499,7 +7499,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "66b49ceb-046b-451a-b92c-af493d271457")
@@ -8330,7 +8330,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "e8a03c62-b58c-4e36-85d7-8cac053183bb")
@@ -8555,7 +8555,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "e7283f01-152f-4a1f-9b5c-e51b57cf0970")
@@ -10185,7 +10185,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "fd3ad49a-858e-42eb-9d86-edb5b734948f")
@@ -10826,7 +10826,7 @@
 		(at 65.5 95.5 90)
 		(descr "C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=5mm, Non-Polar Electrolytic Capacitor")
 		(tags "C Radial series Radial pin pitch 2.00mm diameter 5mm height 5mm Non-Polar Electrolytic Capacitor")
-		(property "Reference" "C 10uF"
+		(property "Reference" "C1"
 			(at 1 -3.75 90)
 			(layer "F.SilkS")
 			(uuid "186bdc9e-7988-4544-a2dc-1ceb7cf886f9")
@@ -13015,7 +13015,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "7883aa0b-ada0-4f0d-b4cb-e41dfb0d4de3")
@@ -16603,7 +16603,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED RED"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "163c7dbd-b01e-4028-8060-857646374e60")
@@ -20040,7 +20040,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "acdcde7e-e52c-4d2b-8db0-25ccae8e7ae0")
@@ -20265,7 +20265,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "df2ec2e2-7ba5-495b-b1b6-266a6b2d69e1")
@@ -20490,7 +20490,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "0934bca3-9ac5-446a-9fd4-3d8e00989e59")
@@ -20715,7 +20715,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "d98a1cb5-f280-4b9e-9c32-1f1244d6787c")
@@ -21452,7 +21452,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "d8e5e085-1eaf-42f2-a637-5952cd79a371")
@@ -21677,7 +21677,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "f82f8cd7-b4fc-4ea2-b0dd-09a5115d6d21")
@@ -23222,7 +23222,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "2bfe0245-7686-4107-afe3-2e1eb3cd75c4")
@@ -23638,7 +23638,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED YELLOW"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "3c7f716d-c656-420b-acb0-5adf45a9653d")
@@ -24270,7 +24270,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED YELLOW"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "8af9b1dd-1187-4d0e-88aa-bfd974329ccf")
@@ -27750,7 +27750,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "81f9f6e2-3a34-49c0-933a-c6de3e44e197")
@@ -28715,7 +28715,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "564065c7-cc73-4aca-ad6b-e39a62176afd")
@@ -31483,7 +31483,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 2.56 5.85 90)
 			(layer "F.Fab")
 			(uuid "11dfa799-9963-4cbd-a6e8-0506cabc3094")
@@ -34147,7 +34147,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "d034a044-2335-473e-8374-da79c3c71a0a")
@@ -35501,7 +35501,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "49af8ee2-01c1-4f58-b0db-646ee00f6271")
@@ -36771,7 +36771,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED GREEN"
 			(at 1.27 3.96 90)
 			(layer "F.Fab")
 			(uuid "9a4de9b0-5f5b-409b-b279-2f31b829ce7f")
